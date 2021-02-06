@@ -20,7 +20,7 @@ syntax keyword LogrotateKeyword  rotate size start su tabooext
 
 syntax keyword LogrotateKeyword  maxsize minsize
 syntax keyword LogrotateKeyword  maxage
-syntax keyword LogrotateKeyword  dateext nodateext dateyesterday
+syntax keyword LogrotateKeyword  dateext nodateext dateyesterday dateformat
 
 syntax keyword LogrotateKeyword  shred noshred shredcycles
 
